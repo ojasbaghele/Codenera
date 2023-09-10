@@ -1,0 +1,38 @@
+body{
+    background-color:rgba(212, 181, 110, 0.378);
+}
+h1{
+    color: rgb(109, 94, 77);
+    font-size: 3rem;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    text-decoration:dotted;
+}
+#profileImg{
+    width: 220px;
+    height: 300px;
+    display:flex;
+    margin-left: 20px;
+    margin-right: auto; 
+    padding: 10px;
+    outline-style: dotted;
+    outline-color: rgb(106, 66, 30);
+    margin-top: 30px;
+    margin-bottom: 10px;
+}
+#para1{
+    margin: 30px 10px;
+    display: flex;
+    height: 70%;
+    padding-left: 10px;
+    padding-right: 15px;
+}
+#para1text{
+    margin: 20px 10px;
+    padding-left: 10px;
+}
+#para2{
+    margin: 30px 20px;
+    padding-left: 10px;
+}

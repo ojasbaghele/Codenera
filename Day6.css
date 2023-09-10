@@ -1,0 +1,48 @@
+#title{
+    width: auto;
+    height: 100px;
+    background-color: burlywood;
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+    border: 3px solid ;
+}
+#item_content{
+    display: flex;
+    width: auto;
+    height:400px;
+    border: 3px solid ;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+#item{
+    background-color: cadetblue;
+    width: 20%;
+    height:80%;
+    border: 3px solid;
+    margin: auto;
+    padding: 5px;
+}
+#content{
+    background-color: rgb(73, 228, 161);
+    width: 70%;
+    height:80%;
+    border: 3px solid ;
+    margin: auto;
+    padding: 20px;
+}
+#footer{
+    width: auto;
+    height: 100px;
+    background-color: rgb(191, 52, 64);
+    text-align: center;
+    border: 3px solid ;
+    margin-top: 40px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    margin-right: 30px;
+}
