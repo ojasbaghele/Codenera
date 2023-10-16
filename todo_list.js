@@ -33,4 +33,5 @@ function addTodo(event) {
     
     //* Append To Do List
     todoList.appendChild(todoDiv);
+    
 }
